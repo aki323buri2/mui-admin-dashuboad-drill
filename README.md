@@ -1,3 +1,6 @@
+Inspired from [Devias Kit - React Admin Dashboard
+](https://themes.material-ui.com/themes/devias-kit/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
